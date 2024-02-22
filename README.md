@@ -56,7 +56,6 @@ To analyze GDP data and visualize the results:
 
 Analyzing GDP data is crucial for understanding economic trends and performance at both national and global levels. This repository provides tools and techniques to analyze GDP data, calculate growth rates, and visualize trends using Plotly. By leveraging the scripts and visualizations provided, users can gain valuable insights into economic dynamics and make informed decisions.
 
-For any questions or suggestions, feel free to contact the repository maintainer.
 
 ---
 
